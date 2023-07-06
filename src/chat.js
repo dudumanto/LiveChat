@@ -69,8 +69,7 @@ function Chat() {
       <Button variant="contained" color="primary" onClick={sendMsg}>
         Enviar
       </Button>
-      <h1>Ola</h1>
-      <h2>Oi</h2>
+    <h1>Ola</h1>
     </div>
   );
 }
