@@ -70,6 +70,7 @@ function Chat() {
         Enviar
       </Button>
       <h1>Ola</h1>
+      <h2>Oi</h2>
     </div>
   );
 }
